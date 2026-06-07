@@ -5,33 +5,33 @@ This repository is a collection of Python learning materials focused on core lan
 ## Repository Contents
 
 ### Core Python Notebooks
-- `/tmp/workspace/manoj198508/python/01_OOP.ipynb` - object-oriented programming concepts
-- `/tmp/workspace/manoj198508/python/01_OOP_Solutions.ipynb` - solutions for OOP exercises
-- `/tmp/workspace/manoj198508/python/02_Scope_Namespaces.ipynb` - scope and namespace concepts
-- `/tmp/workspace/manoj198508/python/02_Scope_Namespaces_Solutions.ipynb` - solutions for scope and namespace exercises
-- `/tmp/workspace/manoj198508/python/03_Practical_Python.ipynb` - practical Python examples
-- `/tmp/workspace/manoj198508/python/03_Practical_Python_Solutions.ipynb` - solutions for practical Python exercises
-- `/tmp/workspace/manoj198508/python/04_File_Handling.ipynb` - file handling concepts
-- `/tmp/workspace/manoj198508/python/04_File_Handling_Solutions.ipynb` - solutions for file handling exercises
-- `/tmp/workspace/manoj198508/python/Threading.ipynb` - notebook covering threading concepts
+- `01_OOP.ipynb` - object-oriented programming concepts
+- `01_OOP_Solutions.ipynb` - solutions for OOP exercises
+- `02_Scope_Namespaces.ipynb` - scope and namespace concepts
+- `02_Scope_Namespaces_Solutions.ipynb` - solutions for scope and namespace exercises
+- `03_Practical_Python.ipynb` - practical Python examples
+- `03_Practical_Python_Solutions.ipynb` - solutions for practical Python exercises
+- `04_File_Handling.ipynb` - file handling concepts
+- `04_File_Handling_Solutions.ipynb` - solutions for file handling exercises
+- `Threading.ipynb` - notebook covering threading concepts
 
 ### Presentations and Notes
-- `/tmp/workspace/manoj198508/python/01_OOP.pptx`
-- `/tmp/workspace/manoj198508/python/02_Scope_Namespaces.pptx`
-- `/tmp/workspace/manoj198508/python/03_Practical_Python.pptx`
-- `/tmp/workspace/manoj198508/python/04_File_Handling.pptx`
-- `/tmp/workspace/manoj198508/python/Threading_in_Python.pptx`
-- `/tmp/workspace/manoj198508/python/Threading_in_Python_Lecture_Notes-2.docx`
+- `01_OOP.pptx`
+- `02_Scope_Namespaces.pptx`
+- `03_Practical_Python.pptx`
+- `04_File_Handling.pptx`
+- `Threading_in_Python.pptx`
+- `Threading_in_Python_Lecture_Notes-2.docx`
 
 ### Concurrency Demo Scripts
-- `/tmp/workspace/manoj198508/python/multiprocess.py` - basic multiprocessing with separate processes
-- `/tmp/workspace/manoj198508/python/multiprocess1.py` - process memory isolation example
-- `/tmp/workspace/manoj198508/python/multiprocess_array.py` - shared array example
-- `/tmp/workspace/manoj198508/python/multiprocess_value.py` - shared value and array example
-- `/tmp/workspace/manoj198508/python/multiprocess_queue.py` - inter-process communication with queues
-- `/tmp/workspace/manoj198508/python/multiprocess_lock.py` - synchronization using locks
-- `/tmp/workspace/manoj198508/python/multiprocess_pool.py` - worker pool example
-- `/tmp/workspace/manoj198508/python/Threadding/thread.py` - threading and GIL notes with runnable examples
+- `multiprocess.py` - basic multiprocessing with separate processes
+- `multiprocess1.py` - process memory isolation example
+- `multiprocess_array.py` - shared array example
+- `multiprocess_value.py` - shared value and array example
+- `multiprocess_queue.py` - inter-process communication with queues
+- `multiprocess_lock.py` - synchronization using locks
+- `multiprocess_pool.py` - worker pool example
+- `Threadding/thread.py` - threading and GIL notes with runnable examples
 
 ## Structure
 
@@ -56,8 +56,8 @@ The repository is organized mainly by topic:
 Example:
 
 ```bash
-python /tmp/workspace/manoj198508/python/multiprocess.py
-python /tmp/workspace/manoj198508/python/Threadding/thread.py
+python multiprocess.py
+python Threadding/thread.py
 ```
 
 ## Notes
