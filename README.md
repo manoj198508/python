@@ -31,7 +31,7 @@ This repository is a collection of Python learning materials focused on core lan
 - `multiprocess_queue.py` - inter-process communication with queues
 - `multiprocess_lock.py` - synchronization using locks
 - `multiprocess_pool.py` - worker pool example
-- `Threadding/thread.py` - threading and GIL notes with runnable examples
+- `Threadding/thread.py` - threading and GIL notes with runnable examples (`Threadding` is the current folder name in the repository)
 
 ## Structure
 
